@@ -142,6 +142,9 @@ span.cm-plus {
 }
 
 
+.CodeMirror-gutter .CodeMirror-linenumbers{
+    width: 45px;
+}
 
 .CodeMirror-activeline .CodeMirror-linenumber {
     background-color: #161616 !important;
